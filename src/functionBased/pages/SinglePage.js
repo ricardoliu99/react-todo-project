@@ -14,7 +14,8 @@ const SinglePage = () => {
     {
       slug: "about-author",
       title: "About the Author",
-      description: "This app was developed by Ricardo Liu :)",
+      description:
+        "Project tutorial from https://ibaslogic.com/react-tutorial-for-beginners/",
     },
   ];
 
